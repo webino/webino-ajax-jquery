@@ -1,0 +1,5 @@
+{
+  "fragments": {
+    "#content": "<div id=\"content\" class=\"jumbotron\"><h2>Text page</h2><div id=\"articles\" data-webino-ajax-fragment=\"append\"><p>Bla bla text page...</p></div><a class=\"ajax\" href=\"articles.json\">More</a></div>"
+  }
+}

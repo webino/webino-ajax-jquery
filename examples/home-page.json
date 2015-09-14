@@ -1,0 +1,5 @@
+{
+  "fragments": {
+    "#content": "<div id=\"content\" class=\"jumbotron\"><h2>Home page</h2><p>Bla bla text...</p></div>"
+  }
+}
