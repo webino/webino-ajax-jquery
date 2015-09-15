@@ -1,11 +1,9 @@
 # jQuery Webino Ajax
 
-- webio.ajax.jquery.js
-
-Ajax made easy.
+Ajax made easy. Updates the elements by diffing.
 
 
-## Requirements
+## Dependencies
 
 - [jQuery](https://jquery.com)
 
@@ -13,7 +11,7 @@ Ajax made easy.
 <script src="//code.jquery.com/jquery-1.11.3.min.js" type="text/javascript"></script>
 ```
 
-- [diffHTML-jquery](https://github.com/webino/diffhtml-jquery)
+- [diffHTML - jQuery](https://github.com/webino/diffhtml-jquery)
 
 ```html
 <script src="//cdn.jsdelivr.net/diffdom/0.0.1/diffdom.min.js" type="text/javascript"></script>
@@ -21,6 +19,8 @@ Ajax made easy.
 ```
 
 ## How To
+
+Add those dependencies above and the following script to your ``index.html`` file.
 
 ```html
 <script src="//cdn.rawgit.com/webino/webino-ajax-jquery/develop/src/webino.ajax.jquery.js" type="text/javascript"></script>
@@ -55,3 +55,11 @@ Expected JSON structure:
 }
 ```
 
+
+## Addendum
+
+This package is used by the [Webino™ project](https://github.com/webino/Webino).
+
+Please, report any issues and don't hesitate to contribute.
+
+[Report a bug](https://github.com/webino/webino-ajax-jquery/issues) | [Fork me](https://github.com/webino/webino-ajax-jquery)
