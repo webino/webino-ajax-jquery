@@ -20,7 +20,7 @@ Ajax made easy. Updates the elements by diffing.
 
 ## How To
 
-Add those dependencies above and the following script to your ``index.html`` file.
+Add those dependencies above and the following script to your ``index.html`` file:
 
 ```html
 <script src="//cdn.rawgit.com/webino/webino-ajax-jquery/develop/src/webino.ajax.jquery.js" type="text/javascript"></script>
